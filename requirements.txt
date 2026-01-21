@@ -1,0 +1,10 @@
+streamlit
+pandas
+seaborn
+matplotlib
+plotly
+requests
+# fastapi and uvicorn are not strictly needed if running in direct mode, 
+# but good to include if we want to keep the env consistent or deploy backend elsewhere.
+fastapi
+uvicorn
